@@ -8,7 +8,7 @@ def countdown
     end
     puts "HAPPY NEW YEAR!"
 end
-# countdown
+countdown
 
 def countdown_sleep
     number = 10
@@ -19,4 +19,3 @@ def countdown_sleep
     end
     puts "HAPPY NEW YEAR!"
 end
-countdown_sleep
